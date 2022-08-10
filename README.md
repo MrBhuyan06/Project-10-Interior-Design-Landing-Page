@@ -27,7 +27,7 @@
 
 ### Project View
 
-![vew](screenshot.png)
+![vew](project10.png)
 
 ### Demo
 [![](https://img.shields.io/badge/Demo-visit-green)](https://developer-landing-page-project11.netlify.app/)
